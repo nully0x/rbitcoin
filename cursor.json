@@ -1,8 +1,8 @@
 {
   "new_base": "b585c2a22737eb5de1308ccdd043a680df630061",
-  "new_skip": 331,
-  "old_index": 249,
-  "old_name": "crates/rbitcoin-consensus/src/block/mod.rs:916:9: replace JobPrevouts::is_empty -> bool with true",
+  "new_skip": 703,
+  "old_index": 856,
+  "old_name": "crates/rbitcoin-consensus/src/script_pool.rs:70:9: replace Wave::notify_if_complete with ()",
   "new_cap_used": true,
-  "run_id": "39548887844"
+  "run_id": "39727617599"
 }
